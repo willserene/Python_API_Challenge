@@ -2,6 +2,10 @@
 
 This challenge entailed the use of API calls and python script for the acquisition, manipulation, and visualization of weather and map data in jupyter notebooks. 
 
+Although difficult, scripting the "for loops" and "try and except clauses" for the API calls, was incredibly rewarding to finally nail down. 
+
+Insert screenshots here.
+
 The latitude of each city was plotted against four respective variables including: max temp, humidity, cloudiness, and windspeed. Cities were grouped by northern and southern hemisphere, after which linear regressions were performed to analyze the relationship between their latitudes and each of the four variables.  
 
 The analyses on latitude vs maximum temperature reflected a strong and predictable relationship. This is captured well in the scatter plot below, and supported in the subsequent regressions, specifically with the correlation coefficients of -0.88 and 0.7 for the northern and southern hemispheres, respectively. 
