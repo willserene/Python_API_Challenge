@@ -1,6 +1,6 @@
-# python-api-challenge
+# Python API Challenge
 
-This challenge entailed the use of API calls and python script for the acquisition, manipulation, and visualization of weather and map data in jupyter notebooks. 
+This project entailed the use of API calls and python script for the acquisition, manipulation, and visualization of weather and map data in jupyter notebooks. 
 
 Although difficult, scripting the "for loops" and "try and except clauses" for the API calls, was incredibly rewarding to finally nail down. 
 
