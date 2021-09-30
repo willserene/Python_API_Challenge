@@ -1,12 +1,8 @@
 # Python API Challenge
 
-This project entailed the use of API calls and python script for the acquisition, manipulation, and visualization of weather and map data in jupyter notebooks. 
+## About 
 
-Although difficult, scripting the "for loops" and "try and except clauses" for the API calls, was incredibly rewarding to finally nail down. 
-
-![ForLoop_TryExcept_openweather](https://user-images.githubusercontent.com/79114121/115125854-31837700-9f88-11eb-85b1-e71ea400d795.png)
-
-![ForLoop_TryExcept_gmaps](https://user-images.githubusercontent.com/79114121/115125857-3516fe00-9f88-11eb-9142-a07cef13ac24.png)
+This project entailed the use of API calls and python script for the acquisition, manipulation, and visualization of weather and map data in jupyter notebooks. Although difficult, scripting the "for loops" and "try and except clauses" for the API calls, was incredibly rewarding to finally nail down. 
 
 The latitude of each city was plotted against four respective variables including: max temp, humidity, cloudiness, and windspeed. Cities were grouped by northern and southern hemisphere, after which linear regressions were performed to analyze the relationship between their latitudes and each of the four variables.  
 
